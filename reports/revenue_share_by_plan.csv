@@ -1,0 +1,4 @@
+plan,customers,revenue,revenue_per_customer,revenue_share_pct,cumulative_share_pct
+Standard,1758,354643.71,201.73,38.6,38.6
+Premium,951,329332.59,346.3,35.8,74.4
+Basic,2291,235466.68,102.78,25.6,100.0

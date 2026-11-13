@@ -1,0 +1,7 @@
+plan,contract_type,customers,churn_rate_pct
+Premium,Monthly,604,48.5
+Basic,Monthly,1531,42.5
+Standard,Monthly,1141,42.0
+Premium,Annual,347,30.0
+Standard,Annual,617,24.0
+Basic,Annual,760,20.5
